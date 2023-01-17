@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao meu perfil 😁
-## Olá, meu nome é Erick e estou iniciando no estudo de programação Front-end!
 
  <div>
    <a href="https://github.com/ericklimagg">
