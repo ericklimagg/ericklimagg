@@ -1,17 +1,19 @@
 ## Bem-vindo(a) ao meu perfil!
 
-Me chamo Erick, estou iniciando meus estudos na área de desenvolvimento de softwares, tendo um forte interesse em desenvolvimento de aplicações web. No momento, não tenho nenhuma experiência profissional, mas pretendo, além de adquiri-la, aprender e me tornar um bom programador.
+Me chamo Erick e estou iniciando minha jornada no mundo do desenvolvimento de softwares, com um forte interesse em desenvolvimento de aplicações web. Embora eu ainda não tenha experiência profissional, estou trabalhando para aprender e me tornar um bom programador.
 
-Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se à vontade, e obrigado por visitar meu perfil!
+A cada novo aprendizado, buscarei atualizar este perfil com projetos pessoais, então fique à vontade para acompanhar!
 
 <div>
   <a href="https://github.com/ericklimagg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericklimagg&show_icons=true&theme=tokyonight&rand=1" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericklimagg&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/ericklimagg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklimagg&layout=compact&langs_count=6&theme=tokyonight&rand=1" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklimagg&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </div>
+
+### Tecnologias que estou aprendendo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +21,13 @@ Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se à 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
+### Conecte-se comigo:
 
 <div>
-  <a href="https://instagram.com/ericklimagg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:erickrampi2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ericklimagg" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:erickrampi2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
