@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil!
 
 Me chamo Erick, Estou iniciando meus estudos na área de desenvolvimento de softwares, tendo um forte interesse em desenvolvimento de aplicações web. No momento, não tenho nenhuma experiencia profissional, mas pretendo, além de adquiri-la, aprender e me tornar um bom progamador.
 
