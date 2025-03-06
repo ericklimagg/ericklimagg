@@ -23,6 +23,4 @@ Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a v
   <a href="https://instagram.com/ericklimagg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:erickrampi2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/ericklimagg/ericklimagg/blob/output/github-contribution-grid-snake.svg)
-
 </div>
