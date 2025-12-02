@@ -4,11 +4,6 @@ Me chamo Erick e estou iniciando minha jornada no mundo do desenvolvimento de so
 
 A cada novo aprendizado, buscarei atualizar este perfil com projetos pessoais, então fique à vontade para acompanhar!
 
-<div>
-<a href="https://github.com/ericklimagg"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericklimagg&show_icons=true&theme=tokyonight" /></a>
-<a href="https://github.com/ericklimagg"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklimagg&layout=compact&langs_count=6&theme=tokyonight" /></a>
-</div>
-
 ### Conecte-se comigo:
 
 <div>
