@@ -16,9 +16,9 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento backend, arq
 ## 🛠️ Tecnologias
 
 ### Principal foco
-- PHP
-- SQL
-- MySQL
+- PHP · SQL/MySQL
+- Angular · TypeScript
+- APIs REST / integrações (fiscais e bancárias)
 
 ### Também tenho experiência/estudo em
 - JavaScript
@@ -46,7 +46,7 @@ A primeira ferramenta desenvolvida é uma **calculadora de rescisão trabalhista
 
 ## 🎯 Atualmente
 
-Meu principal objetivo é evoluir cada vez mais em **PHP, bancos de dados e desenvolvimento de sistemas web**, transformando os conhecimentos adquiridos em projetos reais.
+Atuo profissionalmente no desenvolvimento full-stack de um sistema de gestão hoteleira (módulo de Faturamento e Cobrança), com integrações fiscais e bancárias, código proprietário do cliente, por isso não está neste GitHub. Aqui documento meus projetos pessoais e estudos.
 
 ## 📫 Contato
 
